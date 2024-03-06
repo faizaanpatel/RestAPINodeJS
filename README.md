@@ -22,7 +22,7 @@ In this project, I setup a REST API that tracks a Medical Clinics database. The 
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 First we will install some packages that will be needed to complete this project. We will initialize the Node Package Manager (NPM) by using the command "init npm". nmp is used to manage dependencies: <br/>
 <img src="https://imgur.com/GglLUNs.png" height="80%" width="80%" alt="set up"/>
 <br />
